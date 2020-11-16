@@ -1,0 +1,2 @@
+com/mcnichol/AppTest.java
+ com.mcnichol.AppTest
